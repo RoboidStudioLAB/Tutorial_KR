@@ -1,2 +1,2 @@
 # Tutorial_KR
-**Hamster-S**의 **Tutorial** **[도움말](https://github.com/RoboidStudioLAB/Hamster-S_KR/wiki)** 을 확인하세요.
+**Block Composer**의 **[사용 설명서](https://github.com/RoboidStudioLAB/Tutorial_KR/wiki)** 를 확인하세요.
